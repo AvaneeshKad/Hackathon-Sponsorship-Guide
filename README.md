@@ -58,6 +58,7 @@ What the deck should include :
   - Custom Hackathon Tracks 
   - Past Data / Statistics (if any)
   - Recommendation/ Positive Comments from faculy/professor/student-orgs/judges/mentors/past-sponsors
+  - Collage of past sponsors
 
 The sponsorship deck should have a nice theme/graphics.
 Can add a mascot (if possible)

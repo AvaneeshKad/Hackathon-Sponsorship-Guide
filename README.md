@@ -72,3 +72,48 @@ Divide the things you offer in 3 parts
 - Engagement
 - Brand Presence
 
+#### Talent Acquisition
+
+This is most common thing which most of the corporate companies want. **"*Hiring Talent*"**
+
+These are the points which your hackathon can offer :
+- Resumes
+- Github
+- LinkedIn
+- Email Blast to everyone regarding the open positions in the company
+- Sponsor Booth : Where the hackers can interact with the recruiter and drop-in resumes or talk about projects
+- Custom Hackathon Track for a particular problem-statement that company is interested in.
+
+#### Engagement
+
+Some people really value building a tech-community!
+
+There are the points that can engage the companies with the hackers : 
+
+- Workshops
+- Mentors
+- Judges
+- Giving Opening Ceremony Speech
+- Dedicated Chat Room
+- Distributing API keys or tools
+
+#### Brand Presence
+
+Usually small companies/startups want to gain their name in the local tech-community. It helps them grow, get more investers, and visibility.
+
+Brand presence can be made by : 
+
+- Social Media Posts (Instagram, tiktok, Linkedin)
+- Website
+- Brand logo on t-shirts (Smaller name for small sponsors, bigger name for bigger sponsors)
+- Sponsor's Swag Giveaway
+- Bigger Sponsor Booth based on sponsor tier (Silver, Gold, etc)
+
+
+Based on all of this - there should be 3-4 tiers.
+
+For eg :
+
+-> White($500), Bronze($1,000), Silver($3,000), Gold($5,000)
+
+This helps **managing** sponsors.

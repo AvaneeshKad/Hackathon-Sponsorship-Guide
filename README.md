@@ -180,3 +180,8 @@ Here - **Following up is the Key.**
 Don't be surprised if you dont receive any reply to your email at all even if you followed up 100 times.
 
 After each email, update your **Tracking Sheet** with the latest interaction date and some notes (Eg:- "Followed up but automated reply says the person is out of town.")
+
+
+
+
+*Tailored for Large-scale Hackathons. Hand-typed by Avaneesh Kad.*
